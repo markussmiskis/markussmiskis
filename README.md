@@ -1,16 +1,14 @@
-### Hi there 👋
-
 <!--
-**VespuCore/VespuCore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<div id=views>
+  <img src="https://komarev.com/ghpvc/?username=VespuCore&style=flat&color=orange" alt=""/>
+</div>
 -->
+
+<h3 align=center>Hello there :wave:</h3>
+
+About me:
+
+- I am <b>Markuss Mišķis</b>, also known as <b>Vespu</b>
+- <i>Knowledgeable</i> with <b>C++</b> and <i>proficient</i> with <b>Linux</b> and <b>Server Management</b>.
+- Currently learning as a System Admininstrator.
+- How to reach me: <b>markuss.miskis@tuta.io</b>
