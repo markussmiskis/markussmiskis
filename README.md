@@ -8,7 +8,7 @@
 
 About me:
 
-- I am <b>Markuss Mišķis</b>, also known as <b>Vespu</b>
+- I am <b>Markuss Mišķis</b>, also known as <b>Vespu</b>.
 - <i>Knowledgeable</i> with <b>C++</b> and <i>proficient</i> with <b>Linux</b> and <b>Server Management</b>.
 - Currently learning as a System Admininstrator.
-- How to reach me: <b>markuss.miskis@tuta.io</b>
+- How to reach me: <b>markuss.miskis@tuta.io</b>.
