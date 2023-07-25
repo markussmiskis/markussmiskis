@@ -11,4 +11,4 @@ About me:
 - I am <b>Markuss Mišķis</b>, also known as <b>Vespu</b>.
 - Tech enthusiast with a solid background in Linux Servers and C++.
 - How to reach me: <b>markuss.miskis@tuta.io</b>.
-- Website: https://vespu.eu
+- Website: <b>https://vespu.eu</b>
