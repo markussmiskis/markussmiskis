@@ -8,7 +8,7 @@
 
 About me:
 
-- I am <b>Markuss Mišķis</b>, also known as <b>Vespu</b>.
-- Tech enthusiast with a solid background in Linux Servers and C++.
-- How to reach me: <b>markuss.miskis@tuta.io</b>.
-- Website: <b>https://vespu.eu</b>
+- I am <b>Markuss Mišķis</b>.
+- Student knowledgeable in Linux Servers and Networking.
+- How to reach me: <b>markuss.miskis@gmail.com</b>.
+- Website: <b>https://miskis.id.lv</b>
