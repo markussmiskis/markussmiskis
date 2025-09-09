@@ -9,6 +9,6 @@
 About me:
 
 - I am <b>Markuss Mišķis</b>.
-- Student knowledgeable in Linux Servers and Networking.
-- How to reach me: <b>markuss.miskis@gmail.com</b>.
-- Website: <b>https://miskis.id.lv</b>.
+- Student with hands-on system administration experience.
+- How to reach me: <b>markuss@miskis.lv</b>.
+- Website: <b>https://miskis.lv</b>.
