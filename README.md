@@ -1,14 +1,7 @@
-<!--
-<div id=views>
-  <img src="https://komarev.com/ghpvc/?username=VespuCore&style=flat&color=orange" alt=""/>
-</div>
--->
+<h4>Hello there :wave:</h4>
 
-<h3 align=center>Hello there :wave:</h3>
+My name is Markuss Mišķis and  I'm from Riga, Latvia.
 
-About me:
+I've been getting comfortable with server management and networking for a while now, as I've had lots of hands-on system administration experience.
 
-- I am <b>Markuss Mišķis</b>.
-- Student with hands-on system administration experience.
-- How to reach me: <b>markuss@miskis.lv</b>.
-- Website: <b>https://miskis.lv</b>.
+You can reach me by email at markuss@miskis.lv, and be sure to visit https://miskis.lv.
